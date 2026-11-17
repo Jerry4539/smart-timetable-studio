@@ -1,0 +1,15 @@
+Subject Code,Subject Name,Category (core/lab/sports/activity/language),Applicable Standards,Weekly Periods Required,Max Periods Per Day,Double Period Allowed (Yes/No),Color Preference
+MATH-9,Mathematics,core,Grade 9,6,2,No,Blue
+ENG-9,English,core,Grade 9,5,1,No,Purple
+SCI-9,Integrated Science,core,Grade 9,6,2,Yes,Green
+HIST-9,World History,core,Grade 9,4,1,No,Amber
+CS-9,Computer Basics,lab,Grade 9,4,2,Yes,Indigo
+PE,Physical Education,sports,"Grade 9, Grade 10",3,1,No,Coral
+MATH-10,Advanced Math,core,Grade 10,6,2,No,Blue
+ENG-10,English Literature,core,Grade 10,5,1,No,Purple
+PHY-10,Physics & Chemistry,core,Grade 10,6,2,Yes,Teal
+GEO-10,Geography & Civics,core,Grade 10,4,1,No,Amber
+CS-10,Programming & Web,lab,Grade 10,4,2,Yes,Indigo
+,,,,,,,
+,,,,,,,
+,,,,,,,

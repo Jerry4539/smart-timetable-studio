@@ -1,0 +1,10 @@
+Employee ID,Full Name,Designation,Email (Optional),Phone (Optional),Qualified Subjects (List codes or names),Max Periods Per Day,Max Periods Per Week,Max Consecutive Periods
+T-101,Dr. Rahul Sharma,PGT Mathematics,rahul@school.edu,+91 98765 00001,"Mathematics, Advanced Math",4,20,3
+T-102,Sarah Jenkins,PGT English,sarah@school.edu,+91 98765 00002,"English, English Literature",4,18,2
+T-103,David Vance,PGT Science,david@school.edu,+91 98765 00003,"Integrated Science, Physics & Chemistry",4,20,3
+T-104,Elena Rostova,TGT Social Science,elena@school.edu,+91 98765 00004,"World History, Geography & Civics",4,18,2
+T-105,Marcus Chen,CS Faculty,marcus@school.edu,+91 98765 00005,"Computer Basics, Programming & Web",4,18,2
+T-106,Coach Vikram,PE Director,vikram@school.edu,+91 98765 00006,Physical Education,3,16,2
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,

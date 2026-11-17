@@ -1,0 +1,18 @@
+﻿Constraint Type (Fixed Lock / Teacher Unavailable / Double Period),Entity Affected (Teacher or Standard/Division),Day Of Week,Period Index / Time,Reason / Details
+Fixed Lock,All Classes,Monday,08:40 AM - 09:00 AM,Morning assembly; before Period 1
+Fixed Lock,All Classes,Monday,10:10 AM - 10:25 AM,Short break; no teaching period
+Fixed Lock,All Classes,Monday,12:10 PM - 12:35 PM,Lunch break; no teaching period
+Fixed Lock,All Classes,Tuesday,08:40 AM - 09:00 AM,Morning assembly; before Period 1
+Fixed Lock,All Classes,Tuesday,10:10 AM - 10:25 AM,Short break; no teaching period
+Fixed Lock,All Classes,Tuesday,12:10 PM - 12:35 PM,Lunch break; no teaching period
+Fixed Lock,All Classes,Wednesday,08:40 AM - 09:00 AM,Morning assembly; before Period 1
+Fixed Lock,All Classes,Wednesday,10:10 AM - 10:25 AM,Short break; no teaching period
+Fixed Lock,All Classes,Wednesday,12:10 PM - 12:35 PM,Lunch break; no teaching period
+Fixed Lock,All Classes,Thursday,08:40 AM - 09:00 AM,Morning assembly; before Period 1
+Fixed Lock,All Classes,Thursday,10:10 AM - 10:25 AM,Short break; no teaching period
+Fixed Lock,All Classes,Thursday,12:10 PM - 12:35 PM,Lunch break; no teaching period
+Fixed Lock,All Classes,Friday,08:40 AM - 09:00 AM,Morning assembly; before Period 1
+Fixed Lock,All Classes,Friday,10:10 AM - 10:25 AM,Short break; no teaching period
+Fixed Lock,All Classes,Friday,12:10 PM - 12:35 PM,Lunch break; no teaching period
+Fixed Lock,Computer Lab,All Days,One division per period,Assume one division can use the computer lab at a time for dummy testing
+Fixed Lock,Sports Facilities,All Days,One division per period,Assume shared sports facilities cannot host two divisions simultaneously

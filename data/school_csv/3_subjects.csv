@@ -1,0 +1,103 @@
+﻿Subject Code,Subject Name,Category (core/lab/sports/activity/language),Applicable Standards,Weekly Periods Required,Max Periods Per Day,Double Period Allowed (Yes/No),Color Preference
+ENG-LIT-6,English Literature,core,Grade 6,2,2,No,Purple
+ENG-LANG-6,English Language,core,Grade 6,3,2,No,Purple
+PHY-6,Physics,core,Grade 6,2,2,Yes,Green
+CHEM-6,Chemistry,core,Grade 6,2,2,Yes,Green
+BIO-6,Biology,core,Grade 6,2,2,Yes,Green
+MATH-6,Mathematics,core,Grade 6,5,2,No,Blue
+HIST-6,History,core,Grade 6,2,2,No,Grey
+GEO-6,Geography,core,Grade 6,2,2,No,Grey
+COMP-6,Computer,lab,Grade 6,2,2,Yes,Grey
+HIN-6,Hindi,language,Grade 6,3,2,No,Grey
+MAR-6,Marathi,language,Grade 6,2,2,No,Grey
+ART-6,Art,activity,Grade 6,1,1,No,Grey
+DANCE-6,Dance,activity,Grade 6,1,1,No,Grey
+MUSIC-6,Music,activity,Grade 6,1,1,No,Grey
+LIB-6,Library,activity,Grade 6,1,1,No,Grey
+YOGA-6,Yoga,sports,Grade 6,1,1,No,Grey
+SKILL-6,Skill,activity,Grade 6,1,1,No,Grey
+SUPW-6,Club / SUPW,activity,Grade 6,1,1,No,Grey
+SPORT-6,Sports,sports,Grade 6,3,2,No,Grey
+GK-6,G.K.,activity,Grade 6,1,1,No,Grey
+VE-6,Value Education,activity,Grade 6,1,1,No,Grey
+CT-6,Circle Time,activity,Grade 6,1,1,No,Grey
+ENG-LIT-7,English Literature,core,Grade 7,2,2,No,Purple
+ENG-LANG-7,English Language,core,Grade 7,3,2,No,Purple
+PHY-7,Physics,core,Grade 7,2,2,Yes,Green
+CHEM-7,Chemistry,core,Grade 7,2,2,Yes,Green
+BIO-7,Biology,core,Grade 7,2,2,Yes,Green
+MATH-7,Mathematics,core,Grade 7,5,2,No,Blue
+HIST-7,History,core,Grade 7,2,2,No,Grey
+GEO-7,Geography,core,Grade 7,2,2,No,Grey
+COMP-7,Computer,lab,Grade 7,2,2,Yes,Grey
+HIN-7,Hindi,language,Grade 7,3,2,No,Grey
+MAR-7,Marathi,language,Grade 7,2,2,No,Grey
+ART-7,Art,activity,Grade 7,1,1,No,Grey
+DANCE-7,Dance,activity,Grade 7,1,1,No,Grey
+MUSIC-7,Music,activity,Grade 7,1,1,No,Grey
+LIB-7,Library,activity,Grade 7,1,1,No,Grey
+YOGA-7,Yoga,sports,Grade 7,1,1,No,Grey
+SKILL-7,Skill,activity,Grade 7,1,1,No,Grey
+SUPW-7,Club / SUPW,activity,Grade 7,1,1,No,Grey
+SPORT-7,Sports,sports,Grade 7,3,2,No,Grey
+GK-7,G.K.,activity,Grade 7,1,1,No,Grey
+VE-7,Value Education,activity,Grade 7,1,1,No,Grey
+CT-7,Circle Time,activity,Grade 7,1,1,No,Grey
+ENG-LIT-8,English Literature,core,Grade 8,2,2,No,Purple
+ENG-LANG-8,English Language,core,Grade 8,3,2,No,Purple
+PHY-8,Physics,core,Grade 8,2,2,Yes,Green
+CHEM-8,Chemistry,core,Grade 8,2,2,Yes,Green
+BIO-8,Biology,core,Grade 8,2,2,Yes,Green
+MATH-8,Mathematics,core,Grade 8,5,2,No,Blue
+HIST-8,History,core,Grade 8,2,2,No,Grey
+GEO-8,Geography,core,Grade 8,2,2,No,Grey
+COMP-8,Computer,lab,Grade 8,2,2,Yes,Grey
+HIN-8,Hindi,language,Grade 8,3,2,No,Grey
+MAR-8,Marathi,language,Grade 8,2,2,No,Grey
+ART-8,Art,activity,Grade 8,1,1,No,Grey
+DANCE-8,Dance,activity,Grade 8,1,1,No,Grey
+MUSIC-8,Music,activity,Grade 8,1,1,No,Grey
+LIB-8,Library,activity,Grade 8,1,1,No,Grey
+YOGA-8,Yoga,sports,Grade 8,1,1,No,Grey
+SKILL-8,Skill,activity,Grade 8,1,1,No,Grey
+SUPW-8,Club / SUPW,activity,Grade 8,1,1,No,Grey
+SPORT-8,Sports,sports,Grade 8,3,2,No,Grey
+GK-8,G.K.,activity,Grade 8,1,1,No,Grey
+VE-8,Value Education,activity,Grade 8,1,1,No,Grey
+CT-8,Circle Time,activity,Grade 8,1,1,No,Grey
+ENG-LIT-9,English Literature,core,Grade 9,2,2,No,Purple
+ENG-LANG-9,English Language,core,Grade 9,2,2,No,Purple
+HIN-9,Hindi,language,Grade 9,3,2,No,Grey
+MAR-9,Marathi,language,Grade 9,2,2,No,Grey
+HIST-9,History,core,Grade 9,3,2,No,Grey
+GEO-9,Geography,core,Grade 9,3,2,No,Grey
+PHY-9,Physics,core,Grade 9,3,2,Yes,Green
+CHEM-9,Chemistry,core,Grade 9,3,2,Yes,Green
+BIO-9,Biology,core,Grade 9,3,2,Yes,Green
+MATH-9,Mathematics,core,Grade 9,5,2,No,Blue
+COMP-9,Computer,lab,Grade 9,2,2,Yes,Grey
+PE-9,Physical Education,sports,Grade 9,2,2,No,Grey
+LIB-9,Library,activity,Grade 9,1,1,No,Grey
+SKILL-9,Skill,activity,Grade 9,1,1,No,Grey
+SPORT-9,Sports,sports,Grade 9,2,2,No,Grey
+ECO-9,Economics,core,Grade 9,1,1,No,Grey
+COMM-9,Commerce,core,Grade 9,1,1,No,Grey
+SUPW-9,SUPW,activity,Grade 9,1,1,No,Grey
+ENG-LIT-10,English Literature,core,Grade 10,2,2,No,Purple
+ENG-LANG-10,English Language,core,Grade 10,2,2,No,Purple
+HIN-10,Hindi,language,Grade 10,3,2,No,Grey
+MAR-10,Marathi,language,Grade 10,2,2,No,Grey
+HIST-10,History,core,Grade 10,3,2,No,Grey
+GEO-10,Geography,core,Grade 10,3,2,No,Grey
+PHY-10,Physics,core,Grade 10,3,2,Yes,Green
+CHEM-10,Chemistry,core,Grade 10,3,2,Yes,Green
+BIO-10,Biology,core,Grade 10,3,2,Yes,Green
+MATH-10,Mathematics,core,Grade 10,5,2,No,Blue
+COMP-10,Computer,lab,Grade 10,2,2,Yes,Grey
+PE-10,Physical Education,sports,Grade 10,2,2,No,Grey
+LIB-10,Library,activity,Grade 10,1,1,No,Grey
+SKILL-10,Skill,activity,Grade 10,1,1,No,Grey
+SPORT-10,Sports,sports,Grade 10,2,2,No,Grey
+ECO-10,Economics,core,Grade 10,1,1,No,Grey
+COMM-10,Commerce,core,Grade 10,1,1,No,Grey
+SUPW-10,SUPW,activity,Grade 10,1,1,No,Grey

@@ -1,0 +1,27 @@
+Standard,Division,Subject Name,Subject Code,Assigned Teacher Name,Periods Per Week
+Grade 9,9-A,Mathematics,MATH-9,Dr. Rahul Sharma,6
+Grade 9,9-A,English,ENG-9,Sarah Jenkins,5
+Grade 9,9-A,Integrated Science,SCI-9,David Vance,6
+Grade 9,9-A,World History,HIST-9,Elena Rostova,4
+Grade 9,9-A,Computer Basics,CS-9,Marcus Chen,4
+Grade 9,9-A,Physical Education,PE,Coach Vikram,3
+Grade 9,9-B,Mathematics,MATH-9,Dr. Rahul Sharma,6
+Grade 9,9-B,English,ENG-9,Sarah Jenkins,5
+Grade 9,9-B,Integrated Science,SCI-9,David Vance,6
+Grade 9,9-B,World History,HIST-9,Elena Rostova,4
+Grade 9,9-B,Computer Basics,CS-9,Marcus Chen,4
+Grade 9,9-B,Physical Education,PE,Coach Vikram,3
+Grade 10,10-A,Advanced Math,MATH-10,Dr. Rahul Sharma,6
+Grade 10,10-A,English Literature,ENG-10,Sarah Jenkins,5
+Grade 10,10-A,Physics & Chemistry,PHY-10,David Vance,6
+Grade 10,10-A,Geography & Civics,GEO-10,Elena Rostova,4
+Grade 10,10-A,Programming & Web,CS-10,Marcus Chen,4
+Grade 10,10-A,Physical Education,PE,Coach Vikram,3
+Grade 10,10-B,Advanced Math,MATH-10,Dr. Rahul Sharma,6
+Grade 10,10-B,English Literature,ENG-10,Sarah Jenkins,5
+Grade 10,10-B,Physics & Chemistry,PHY-10,David Vance,6
+Grade 10,10-B,Geography & Civics,GEO-10,Elena Rostova,4
+Grade 10,10-B,Programming & Web,CS-10,Marcus Chen,4
+Grade 10,10-B,Physical Education,PE,Coach Vikram,3
+,,,,,
+,,,,,

@@ -1,0 +1,227 @@
+@import "tailwindcss";
+
+/* Force class-based dark mode so OS media query does NOT override light theme */
+@custom-variant dark (&:where(.dark, .dark *));
+
+@layer base {
+  :root {
+    --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    
+    /* Bento-Style Eye-Smoothing Light Palette (Default) */
+    --background: #f4f5f8;
+    --background-subtle: #ebedf2;
+    --surface: #ffffff;
+    --surface-hover: #f8f9fa;
+    --surface-active: #f1f3f6;
+    
+    --foreground: #111827;
+    --foreground-muted: #4b5563;
+    --foreground-subtle: #9ca3af;
+    
+    --primary: #18181b;
+    --primary-foreground: #ffffff;
+    
+    --accent: #2563eb;
+    --accent-light: #eff6ff;
+    
+    --border: #e5e7eb;
+    --border-subtle: #f1f2f5;
+    
+    --ring: rgba(37, 99, 235, 0.15);
+    
+    --success: #16a34a;
+    --success-bg: #f0fdf4;
+    --success-border: #bbf7d0;
+    
+    --warning: #d97706;
+    --warning-bg: #fffbeb;
+    --warning-border: #fde68a;
+    
+    --danger: #dc2626;
+    --danger-bg: #fef2f2;
+    --danger-border: #fecaca;
+
+    /* Bento curved smoothness */
+    --radius-bento: 14px;
+    --radius-tile: 10px;
+    --radius-pill: 9999px;
+  }
+
+  .dark {
+    --background: #09090b;
+    --background-subtle: #121215;
+    --surface: #141417;
+    --surface-hover: #1e1e23;
+    --surface-active: #27272f;
+    
+    --foreground: #f4f4f5;
+    --foreground-muted: #a1a1aa;
+    --foreground-subtle: #71717a;
+    
+    --primary: #fafafa;
+    --primary-foreground: #09090b;
+    
+    --accent: #3b82f6;
+    --accent-light: rgba(59, 130, 246, 0.12);
+    
+    --border: #222228;
+    --border-subtle: #1a1a20;
+    
+    --ring: rgba(59, 130, 246, 0.25);
+    
+    --success: #22c55e;
+    --success-bg: rgba(34, 197, 94, 0.1);
+    --success-border: rgba(34, 197, 94, 0.25);
+    
+    --warning: #f59e0b;
+    --warning-bg: rgba(245, 158, 11, 0.1);
+    --warning-border: rgba(245, 158, 11, 0.25);
+    
+    --danger: #ef4444;
+    --danger-bg: rgba(239, 68, 68, 0.1);
+    --danger-border: rgba(239, 68, 68, 0.25);
+  }
+
+  * {
+    border-color: var(--border);
+    box-sizing: border-box;
+  }
+
+  html,
+  body,
+  #root {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+
+  body {
+    font-family: var(--font-sans);
+    background-color: var(--background);
+    color: var(--foreground);
+    user-select: none;
+    font-size: 13px;
+    line-height: 1.45;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+}
+
+/* Minimalist smooth scrollbars */
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #d4d7dc;
+  border-radius: 9999px;
+}
+
+.dark ::-webkit-scrollbar-thumb {
+  background: #33333a;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #9ca3af;
+}
+
+/* Bento card styling */
+.bento-card {
+  background-color: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-bento);
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.03), 0 1px 2px -1px rgba(0, 0, 0, 0.02);
+  transition: all 150ms ease;
+}
+
+.bento-card:hover {
+  border-color: #d1d5db;
+}
+
+.dark .bento-card:hover {
+  border-color: #33333a;
+}
+
+.shadow-bento {
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.04), 0 1px 2px -1px rgba(0, 0, 0, 0.02);
+}
+
+/* Print Media Styles for PDF and Paper Dissemination */
+@page {
+  size: landscape;
+  margin: 0mm; /* Disables browser-generated corner headers & footers (URL, title, date, page num) */
+}
+
+@media print {
+  html,
+  body {
+    width: 100% !important;
+    height: 100% !important;
+    max-height: 100% !important;
+    background: #ffffff !important;
+    color: #000000 !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    overflow: hidden !important;
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+
+  aside,
+  header,
+  nav,
+  .no-print {
+    display: none !important;
+  }
+
+  #root,
+  main,
+  .print-area-wrapper {
+    width: 100% !important;
+    max-width: 100% !important;
+    height: 100% !important;
+    max-height: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    border: none !important;
+    background: #ffffff !important;
+    overflow: hidden !important;
+  }
+
+  .print-area {
+    width: 100% !important;
+    max-width: 100% !important;
+    height: 100% !important;
+    max-height: 100% !important;
+    margin: 0 !important;
+    padding: 8mm 10mm !important; /* Document margins are safely rendered inside the print canvas */
+    border: none !important;
+    box-shadow: none !important;
+    background: #ffffff !important;
+    box-sizing: border-box !important;
+    page-break-inside: avoid !important;
+    page-break-after: avoid !important;
+    page-break-before: avoid !important;
+    break-inside: avoid !important;
+    overflow: hidden !important;
+  }
+
+  table {
+    width: 100% !important;
+    table-layout: fixed !important;
+    border-collapse: collapse !important;
+  }
+
+  th,
+  td {
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+}

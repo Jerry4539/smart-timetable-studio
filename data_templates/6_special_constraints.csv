@@ -1,0 +1,5 @@
+Constraint Type (Fixed Lock / Teacher Unavailable / Double Period),Entity Affected (Teacher or Standard/Division),Day Of Week,Period Index / Time,Reason / Details
+Fixed Lock,All Classes,Monday,Period 1,Morning Assembly & Value Education
+Teacher Unavailable,Coach Vikram,Friday,"Period 6, Period 7",Off-campus sports committee meeting
+Teacher Unavailable,Dr. Rahul Sharma,Wednesday,Period 1,Academic council meeting
+Double Period,Grade 10-A,Thursday,"Period 4, Period 5",Continuous 2-period science laboratory block

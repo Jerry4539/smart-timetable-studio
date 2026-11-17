@@ -1,0 +1,25 @@
+﻿Employee ID,Full Name,Designation,Email (Optional),Phone (Optional),Qualified Subjects (List codes or names),Max Periods Per Day,Max Periods Per Week,Max Consecutive Periods
+HMPS-T001,Ms. Jaspreet Kaur,Teacher,,,"Commerce, Economics, Mathematics",6,30,3
+HMPS-T002,Ms. Shilpa Chaugule,Teacher,,,Geography,6,30,3
+HMPS-T003,Ms. Pragya Dubey,Teacher,,,"Circle Time, English Literature, G.K., History",6,30,3
+HMPS-T004,Ms. Kanchi Hindocha,Teacher,,,"Biology, Chemistry, Physical Education",6,30,3
+HMPS-T005,Ms. Dharni Barot,Teacher,,,Mathematics,6,30,3
+HMPS-T006,Ms. Fiza Shaikh,Teacher,,,"English Literature, History, Value Education",6,30,3
+HMPS-T007,Ms. Deepshikha Singh,Teacher,,,English Language,6,30,3
+HMPS-T008,Ms. Aabha Minocha,Teacher,,,"Biology, Chemistry",6,30,3
+HMPS-T009,Ms. Manisha Sonawane,Teacher,,,Mathematics,6,30,3
+HMPS-T010,Ms. Sucheta Shetty,Teacher,,,"English Language, English Literature, SUPW",6,30,3
+HMPS-T011,Ms. Mavis D'Souza,Teacher,,,History,6,30,3
+HMPS-T012,Ms. Manasi Tembe,Teacher,,,"Marathi, Value Education",6,30,3
+HMPS-T013,Ms. Ashwini Barigalla,Teacher,,,Computer,6,30,3
+HMPS-T014,Ms. Trupti Nazare,Teacher,,,Hindi,6,30,3
+HMPS-T015,Ms. Shraddha Yadav,Teacher,,,Physics,6,30,3
+HMPS-T016,Ms. Sonia (French),Teacher,,,Not assigned in this test dataset,6,30,3
+HMPS-T017,Mr. Vishal Singh,Teacher,,,Music,6,30,3
+HMPS-T018,Ms. Kiran (Dance),Teacher,,,Dance,6,30,3
+HMPS-T019,Ms. Madhura (Yoga),Teacher,,,Yoga,6,30,3
+HMPS-T020,Art Teacher (Name Pending),Teacher,,,Art,6,30,3
+HMPS-T021,Ms. Sherli,Teacher,,,Library,6,30,3
+HMPS-T022,Mr. Ankit (Sports),Teacher,,,Sports,6,30,3
+HMPS-T023,Skill Teacher (Provisional),Teacher,,,Skill,6,30,3
+HMPS-T024,SUPW / Club Teacher (Provisional),Teacher,,,Club / SUPW,6,30,3

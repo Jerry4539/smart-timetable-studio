@@ -1,0 +1,12 @@
+Field,Value,Example,Description
+School Name,,Oakridge International Academy,Full official name of school or college
+Institution Code,,OIA,Short 3 to 5 letter abbreviation
+Campus Name,,Main Campus,Campus or branch name
+Academic Year,,2026-2027,Current academic session
+Working Days,,Monday to Friday,E.g. Monday to Friday or Monday to Saturday
+Daily Start Time,,08:00 AM,School start bell time
+Daily End Time,,02:15 PM,School dispersal bell time
+Period Duration (mins),,45,Duration of each standard lecture in minutes
+Morning Break Duration (mins),,15,Short morning break duration in minutes
+Lunch Break Duration (mins),,45,Lunch recess duration in minutes
+Total Teaching Periods Per Day,,7,Number of academic periods per day (excluding breaks)
